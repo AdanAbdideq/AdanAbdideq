@@ -14,7 +14,7 @@ Let's embark on this data science journey together, exploring the vast possibili
 
 | Contact Method | Link                                                 |
 | -------------- | -----------------------                              |
-| Email          |<a href="mailto:abdideqadan@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="abdideqadan@gmail.com" height="30" width="40" /></a>|
+
 | Twitter        | <a href="https://twitter.com/https://twitter.com/__deq__adan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/__deq__adan" height="30" width="40" /></a>|
 | Kaggle         |<a href="https://kaggle.com/https://www.kaggle.com/adanabdideqhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/adanabdideqhassan" height="30" width="40" /></a>|
 | LeetCode       | <a href="https://www.leetcode.com/https://leetcode.com/abdideqadan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abdideqadan/" height="30" width="40" /></a>|
