@@ -7,8 +7,7 @@ Having completed a diploma in software engineering, I possess a strong technical
 
 As a lifelong learner, I continually strive to expand my knowledge in cutting-edge technologies, including machine learning, data analytics, and artificial intelligence. My goal is not only to excel in these fields but also to share my insights, experiences, and projects with the community, fostering a collaborative and learning-driven environment.
 
-## **[Data Science Portfolio](Data_Science_Portfolio/)**
-
+## **<a href="./Data_Science_Portfolio ">Data Analyst Portfolio</a>**
 Let's embark on this data science journey together, exploring the vast possibilities that data and technology offer!
 ## Connect with Me:
 
